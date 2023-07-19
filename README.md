@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [Discord](https://discord.com/users/275360866705080320) 
 <!--
 **kentledge/kentledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
