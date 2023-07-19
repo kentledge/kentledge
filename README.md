@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 📫 How to reach me: [Discord](https://discord.com/users/275360866705080320) 
+I’m kentl, a Developer residing in the U.S, with a six years of experience in the field of development. I take pride in being an active member in the LGBTQIA+ 🏳️‍🌈 community, and I go by any pronouns!
 <!--
 **kentledge/kentledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
