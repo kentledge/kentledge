@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m kentl, a Developer residing in the U.S, with a six years of experience in the field of development. I take pride in being an active member in the LGBTQIA+ 🏳️‍🌈 community, and I go by any pronouns!
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=h6wx1xnw0w108rs3w0o31l7r8&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h6wx1xnw0w108rs3w0o31l7r8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h6wx1xnw0w108rs3w0o31l7r8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
