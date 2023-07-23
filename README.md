@@ -10,5 +10,3 @@ I’m kentl, a Developer residing in the U.S, with a six years of experience in 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kentledge&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
